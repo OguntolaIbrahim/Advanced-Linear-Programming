@@ -6,9 +6,11 @@ Stock Cutting Problem(SCP) using Column Generation.ipynb
 SCP using Lagrangian Decomposition (Subgradient)
 and
 SCP using Lagrangian Decomposition (Kelly's)
+
 ![image](https://user-images.githubusercontent.com/46747732/202509971-0527d865-86d8-411d-8dcb-7f4e45fbe997.png)
 
 SCP using Dantzig Wolfe Decomposition
+
 ![image](https://user-images.githubusercontent.com/46747732/202510047-0506e81e-a276-430c-b33e-34a35e30e3dd.png)
 
 Capacitated Facility Location Problem using Bender's Decomposition
